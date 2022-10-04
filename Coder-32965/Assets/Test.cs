@@ -20,4 +20,18 @@ public class Test : MonoBehaviour
     {
         Debug.Log("hola mundoooosdtgfds");
     }
+
+	
+	void Movimiento()
+    {
+        Debug.Log("Implementando el movimiento màs sexy de todos los jugadores del mundo (sin bugs)");
+    }
+
+    	void Salto()
+    {
+        Debug.Log("Implementando el salto màs genial de todos los jugadores del mundo (sin bugs)");
+    }
+
+
+
 }
