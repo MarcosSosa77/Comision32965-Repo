@@ -18,6 +18,6 @@ public class Test : MonoBehaviour
 
     void Saludar()
     {
-        Debug.Log("Hello World");
+        Debug.Log("hola mundoooosdtgfds");
     }
 }
